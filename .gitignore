@@ -20,6 +20,7 @@ env/
 .idea/
 *.swp
 *.swo
+.trea/
 
 # 输出图片
 output/
